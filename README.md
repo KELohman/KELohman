@@ -1,7 +1,9 @@
 ### Hi, I'm Karen Elizabeth! 👋
 
 
- I’m a population geneticist in the midst of mastering spatial analysis. 🌱 Currently, I'm working to understand the population structure, connectivity, and spatial distribution of humpback whales in the eastern North Pacific Ocean. :whale: :whale: :whale:
+ I’m a population geneticist in the midst of mastering spatial analysis. :books: Currently, I'm working to understand the population structure, connectivity, and spatial distribution of humpback whales in the eastern North Pacific Ocean. :whale: :whale: :whale:
+
+
 
 <!--
 **KELohman/KELohman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
